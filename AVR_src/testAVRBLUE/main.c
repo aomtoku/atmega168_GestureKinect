@@ -1,5 +1,3 @@
-/* LED flash using atmega168 designed by takefuji on sept. 22, 2009*/
-
 #define FOSC	F_CPU
 #include <avr/io.h>
 #include <util/delay.h>
